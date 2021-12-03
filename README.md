@@ -6,7 +6,7 @@ though I am always looking for new challenges.
 
 Fun Fact: I never say no to lasagna 😏
 
-## 📘 Some of the projects I'm proud of
+## 📘 Some projects I'm proud of
 <p align="left">
     <a href="https://github.com/IEEESBITBA/IEEE-ITBA-website"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=IEEESBITBA&repo=IEEE-ITBA-website&theme=algolia&icon_color=FFFFFF&hide_border=true" alt="IEEE-ITBA-Website"></a>
     <a href="https://github.com/matifrancois/Neural_Networks"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=matifrancois&repo=Neural_Networks&theme=algolia&icon_color=FFFFFF&hide_border=true" alt="Neural-Network-Proyects"></a>
