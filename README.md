@@ -1,7 +1,10 @@
 ## Hi, I'm Mati! 👋
 
-Passionate about Technology, I love working in new areas and stacks. \
-So far, I've worked with neural networks, signal processing, desktop apps and web development.
+Passionate about all things technology and innovation. \
+So far, I've worked with neural networks, signal processing, desktop apps and web development, \
+though I am always looking for new challenges.
+
+Fun Fact: I never say no to lasagna 😏
 
 ## 📘 Some of the projects I'm proud of
 <p align="left">
@@ -14,7 +17,4 @@ So far, I've worked with neural networks, signal processing, desktop apps and we
   <a href="https://github.com/matifrancois?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-050F2C?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## Connect with me 
-<p align="center">
-<a href="https://www.linkedin.com/in/matias-francois/"><img alt="LinkedIn" title="Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-</p>
+<h2> Connect with me </h2> <a href="https://www.linkedin.com/in/matias-francois/"><img alt="LinkedIn" title="Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
